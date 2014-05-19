@@ -1,0 +1,17 @@
+/AndConditionImpl.java/1.4/Thu Jan  3 13:35:40 2008//
+/AttributeConditionImpl.java/1.4/Thu Jan  3 13:35:38 2008//
+/BeginHyphenAttributeConditionImpl.java/1.4/Thu Jan  3 13:35:40 2008//
+/CharacterDataSelectorImpl.java/1.4/Thu Jan  3 13:35:40 2008//
+/ChildSelectorImpl.java/1.4/Thu Jan  3 13:35:38 2008//
+/ClassConditionImpl.java/1.4/Thu Jan  3 13:35:38 2008//
+/ConditionFactoryImpl.java/1.4/Thu Jan  3 13:35:38 2008//
+/ConditionalSelectorImpl.java/1.4/Thu Jan  3 13:35:40 2008//
+/DescendantSelectorImpl.java/1.4/Thu Jan  3 13:35:40 2008//
+/DirectAdjacentSelectorImpl.java/1.4/Thu Jan  3 13:35:39 2008//
+/ElementSelectorImpl.java/1.4/Thu Jan  3 13:35:40 2008//
+/IdConditionImpl.java/1.4/Thu Jan  3 13:35:38 2008//
+/LangConditionImpl.java/1.4/Thu Jan  3 13:35:38 2008//
+/OneOfAttributeConditionImpl.java/1.4/Thu Jan  3 13:35:38 2008//
+/PseudoClassConditionImpl.java/1.4/Thu Jan  3 13:35:40 2008//
+/PseudoElementSelectorImpl.java/1.4/Thu Jan  3 13:35:40 2008//
+/SelectorFactoryImpl.java/1.4/Thu Jan  3 13:35:38 2008//
